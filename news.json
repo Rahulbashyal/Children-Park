@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "New Playground Opens",
+      "date": "2024-10-03",
+      "description": "The new playground for children has officially opened, featuring modern equipment and safety measures.",
+      "image_url": "./img/event-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Autumn Festival Announced",
+      "date": "2024-10-05",
+      "description": "The Montessori school will host its annual autumn festival next week with various activities for children and parents.",
+      "image_url": "./img/galary-1.jpg"
+    }
+  ]
+  
